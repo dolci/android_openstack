@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenStackMonit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+ <string name="description_logo">Demo</string>
+    <string-array name="tenant_name">
+        <item>admin</item>
+        <item>demo</item>
+    </string-array>
+    <string name="description_about">About</string>
+    <string name="description_home">Home</string>
+    <string name="description_search">Search</string>
+    <string name="description_feature1">Users</string>
+    <string name="description_feature2">Projects</string>
+    <string name="description_feature3">Images</string>
+    <string name="description_feature4">Instances</string>
+    <string name="description_feature5">Network</string>
+    <string name="description_feature6">Mn</string>
+      <string name="hello">Choose one of the features below.</string>
+       <string name="title_about">About</string>
+    <string name="title_home">Home</string>
+     <string name="title_search">Search</string>
+       <string name="Instance">Instance</string>
+    <string name="title_feature1">User</string>
+    <string name="title_feature2">Project</string>
+    <string name="title_feature3">Images</string>
+    <string name="title_feature4">Instance</string>
+    <string name="title_feature5">Network</string>
+    <string name="title_feature6">Feature</string>
+    <string name="HomeActivityTitle">OpenStack | Dashboard</string>
+    <string name="FeedbackActivityTitle">Feedback</string>
+    <string name="UserActivityTitle">Users</string>
+    <string name="ProjectActivityTitle">Projetcs</string>
+    <string name="ImageActivityTitle">Images</string>
+    <string name="InstanceActivityTitle">Instances</string>
+    <string name="NetworkActivityTitle">Network</string>
+    <string name="ManActivityTitle">Mang</string>
+    <string name="title_activity_activity__project">Project</string>
+    <string name="title_activity_activity__images">Images</string>
+    <string name="title_activity_activity__network">Network</string>
+    <string name="title_activity_activity__users">Users</string>
+    <string name="title_activity_activity__instance">Instance</string>
+    <string name="title_activity_list_user_">OpenStack</string>
+ <string name="default_intro">This is the default content view for an activity. Be sure to change your activity\'s onCreate method. Use setContentView on a custom layout.</string>
+    <string name="feature1_intro">Feature 1 content goes here.</string>
+    <string name="feature2_intro">Feature 2 content goes here.</string>
+    <string name="feature3_intro">Feature 3 content goes here.</string>
+    <string name="feature4_intro">Feature 4 content goes here.</string>
+    <string name="feature5_intro">Feature 5 content goes here.</string>
+    <string name="feature6_intro">Feature 6 content goes here.</string>
+
+    <string name="about_intro">This app is a demo to show you how to do an Android app based on the Dashboard pattern that has been used in apps like Google+, Twitter, Google IO, and Evernote.</string>
+    <string name="search_intro">Content for the Search page goes here.</string>
+</resources>
